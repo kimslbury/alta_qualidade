@@ -1,0 +1,6 @@
+# Relatórios de testes e cobertura
+.coverage
+.coverage.*
+htmlcov/
+relatorio.html
+assets/
